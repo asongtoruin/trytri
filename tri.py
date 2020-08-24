@@ -16,8 +16,9 @@ st.markdown(
     '''
     This web app uses (a fork of) [@mccutchen](https://twitter.com/mccutchen)'s 
     [triangulizor](https://github.com/mccutchen/triangulizor) Python library to 
-    convert an image to "triangular" pixels. It might be a bit slow if your 
-    image files are particularly large, so be patient!
+    convert an image to "triangular" pixels. I think they look pretty cool. 
+    It might be a bit slow if your image files are particularly large 
+    (e.g. taken on a phone camera), so be patient :turtle: :turtle: :turtle:
 
     Show [me](https://twitter.com/adam_rusz) what you're making!
     '''
